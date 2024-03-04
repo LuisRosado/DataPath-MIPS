@@ -8,7 +8,7 @@ Este programa en Verilog implementa un DataPath, que es la ruta de datos de un p
 
 **Imagen:**
 
-[Imagen del diagrama de circuito del DataPath]
+![image](https://github.com/LuisRosado/DataPath-MIPS/assets/140114139/5c29a2a7-3881-49aa-bdfd-186cd5dadaa6)
 
 **Funcionamiento:**
 
